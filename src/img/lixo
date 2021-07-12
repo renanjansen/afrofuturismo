@@ -1,0 +1,44 @@
+<div class="container">
+<div class="row mt-2" >
+<div class="col mb-3 mt-5 border border-dark bg-light " >
+
+<div class="card text-center">
+  <img class="card-img-top" src="d8c3c14776a91157ce25214227e3f534.jpg" alt="Imagem de capa do card">
+  <div class="card-body">
+    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+  </div>
+  </div>
+</div>
+<div class="col mb-3 mt-5 border border-dark  bg-light">
+<div class="card text-center">
+  <img class="card-img-top" src="d8c3c14776a91157ce25214227e3f534.jpg" alt="Imagem de capa do card">
+  <div class="card-body">
+    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+  </div>
+  </div>
+</div>
+<div class="w-100"></div>
+<div class="col bg-light border border-dark  bg-light" >
+ 
+<div class="card text-center">
+  <img class="card-img-top" src="d8c3c14776a91157ce25214227e3f534.jpg" alt="Imagem de capa do card">
+  <div class="card-body">
+    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+  </div>
+  </div>
+
+
+</div>
+<div class="col bg-lightborder border-dark  bg-light">
+
+<div class="card text-center">
+  <img class="card-img-top" src="d8c3c14776a91157ce25214227e3f534.jpg" alt="Imagem de capa do card">
+  <div class="card-body">
+    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+  </div>
+  </div>
+
+
+</div>
+</div>
+</div>

@@ -1,0 +1,20 @@
+.imgs {
+   
+    height:820px; 
+    width:1025; 
+    object-fit: cover
+    
+    
+}
+.imgs1{
+    height:820px; 
+    width:1025; 
+    object-fit: fill;
+}
+
+
+#corpo{
+    
+    height:100vh
+}
+

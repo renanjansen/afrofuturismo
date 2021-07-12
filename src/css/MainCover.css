@@ -1,0 +1,6 @@
+#capa {
+    background-image: url('../img/africa.jpeg');
+    height: 250vh;
+    opacity: 0.7;
+    object-fit: contain;
+}
