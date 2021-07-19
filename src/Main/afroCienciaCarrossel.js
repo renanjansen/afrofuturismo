@@ -12,7 +12,7 @@ import simone from "../img/simone_evaristo.jpeg";
 
 function AfroCienciaCarrossel(params) {
   return (
-    <main id="corpo">
+    
       <div
         id="carouselExampleIndicators"
         className="carousel slide"
@@ -157,7 +157,7 @@ function AfroCienciaCarrossel(params) {
           </div>
           <div className="carousel-item">
             <img
-              className="d-block w-100 imgs"
+              className="d-block w-100 imgs2"
               src={maejemison}
               alt="Third slide"
               />
@@ -262,7 +262,7 @@ function AfroCienciaCarrossel(params) {
           <span className="sr-only">Next</span>
         </a>
       </div>
-    </main>
+    
   );
 }
 

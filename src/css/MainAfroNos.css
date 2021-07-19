@@ -8,8 +8,8 @@
   }
 
   .card {
-    width: 100%;
-    height: 100vh;
+    width: 105%;
+    height: 110vh;
     /* Add shadows to create the "card" effect */
     box-shadow: 0 4px 8px 0 rgba(95, 7, 209, 0.2);
     transition: 0.3s;
@@ -36,7 +36,7 @@
   .imgNosCard {
     min-height: 155.67px;
     max-height: 155.67px;
-    object-fit: cover;
+    object-fit: fill;
   }
   
   a:link{
@@ -44,9 +44,88 @@
     color: inherit;
   }
   
-  .baoba {
+  .nos {
   
-    background-image: url('../img/baoba.jpg');
-    height: 300vh;
+    background-image: url('../img/afrolit.jpg');
+    height: 250vh;
     
   }  
+
+
+  @media (max-width: 768px){
+
+    .baoba {
+      min-height: 750vh;
+      
+  }
+    .image-flip {
+      margin-bottom:350px;
+      width: 30px;
+      height: 300px;
+      }
+    
+      .imgBaobaCard  {
+    
+        min-height: 550px;
+        
+        object-fit: fill;
+    }   
+
+  }
+
+  @media (max-width: 425px){
+
+    .nos {
+      min-height: 750vh;
+      
+  }
+    .image-flip1 {
+      margin-bottom:350px;
+      width: 370px;
+      height: 300px;
+      }
+    
+      .imgBaobaCard  {
+    
+        min-height: 550px;
+        
+        object-fit: fill;
+    }    
+  
+  } 
+  
+  @media (max-width: 375px){
+  
+    .nos {
+      min-height: 750vh;
+      
+  }
+    .image-flip1 {
+      margin-bottom:350px;
+      width: 325px;
+      height: 300px;
+
+    }
+    .imgBaobaCard  {
+    
+      min-height: 550px;
+      
+      object-fit: fill;
+  }  
+    
+  } 
+  
+  @media (max-width: 320px){
+  
+    .nos {
+        min-height: 750vh;
+        
+    }
+    .image-flip1 {
+      margin-bottom:350px;
+      width: 270px;
+      height: 300px;
+      }
+
+      
+  }

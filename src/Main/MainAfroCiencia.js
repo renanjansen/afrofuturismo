@@ -3,17 +3,17 @@ import "../css/MainAfroCiencia.css";
 import AfroCienciaCarrossel from "./afroCienciaCarrossel";
 
 function MainAfroCiencia(params) {
-    return(
-        
-                <div className="row">
-                    <div  className="col-12 w-100" id="imgs"> 
-                        <AfroCienciaCarrossel />
-                    </div>
-                </div>
-                
-        
-        
-    );
+  return (
+    <main className="bg-image text-dark">
+      <div className="conteiner pt-5">
+        <div className="row">
+          <div className="col-12">
+            <AfroCienciaCarrossel />
+          </div>
+        </div>
+      </div>
+    </main>
+  );
 }
 
-export default MainAfroCiencia; 
+export default MainAfroCiencia;

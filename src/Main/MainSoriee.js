@@ -8,8 +8,8 @@ function MainSoriee(params) {
         <iframe
         
           id="youtube"
-          width="400"
-          height="215"
+          width="300"
+          height="170"
           src="https://www.youtube.com/embed/videoseries?list=PLDO4jOZmcRzGC2pOC_YtiHL5OCiWbs_Mo"
           title="YouTube video player"
           frameborder="0"

@@ -66,6 +66,14 @@ ReactDOM.render(
           return null;
         }}
       />
+      <Route
+        path="/cod_preto"
+        component={() => {
+          window.location.href =
+            "https://www.digitalhouse.com/br/acoes/codigo-preto";
+          return null;
+        }}
+      />
     </Switch>
   </BrowserRouter>,
   document.getElementById("root")

@@ -1,20 +1,17 @@
-
-.baoba {
-  
-  background-image: url('../img/baoba.jpg');
-  height: 300vh;
-  
-  
-}
-
-
 .card {
-  width: 100%;
-  height: 100vh;
+  width: 90%;
+  height: 90vh;
   /* Add shadows to create the "card" effect */
   box-shadow: 0 4px 8px 0 rgba(95, 7, 209, 0.2);
   transition: 0.3s;
   border-radius: 5px;
+  
+}
+.baoba {
+  
+  background-image: url('../img/baoba.jpg');
+  height: 250vh;
+  
   
 }
 
@@ -33,12 +30,17 @@
 .container {
   padding: 16px 16px;
  
-  height: 100vh;
+  height: 80vh;
 }
 
-.imgBaobaCard {
-  max-width: 90vh;
-  height: 93vh;
+/* altura da foto*/
+.imgBaobaCard2 {
+
+  min-height: 560px;
+
+
+  
+  
 }
 
 a:link{
@@ -46,9 +48,89 @@ a:link{
   color: inherit;
 }
 
-#yaba {
-  min-height: 528.41px;
+#yaba{
+  height: 80vh;
+}
+
+@media (max-width: 768px){
+
+   /* altura da foto*/
+ .imgBaobaCard2 {
+
+  min-height: 520px;
+
+  
 }
 
 
+.baoba{
 
+  height:250vh;
+}
+
+
+}
+
+@media (max-width: 425px){
+ 
+  /* altura da foto*/
+ .imgBaobaCard2 {
+
+  min-height: 540px;
+
+  
+}
+.card {
+  max-width: 370px;
+  margin-bottom: 40px;
+}
+  
+  
+} 
+
+@media (max-width: 375px){
+
+  /* altura da foto*/
+  .imgBaobaCard2 {
+
+    min-height: 540px;
+  
+    
+  }
+
+  .card {
+    max-width: 330px;
+  }
+
+  .baoba {
+  
+    
+    height: 250vh;
+    
+  }
+ 
+  
+  
+}
+
+@media (max-width: 320px){
+
+ /* altura da foto*/
+.imgBaobaCard2 {
+
+  min-height: 530px;
+
+  
+}
+.card {
+  max-width: 280px;
+}
+.baoba {
+  
+  
+  height: 100vh;
+  
+  
+}
+  
+}
