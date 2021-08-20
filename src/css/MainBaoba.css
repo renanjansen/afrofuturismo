@@ -52,7 +52,7 @@ a:link{
   height: 80vh;
 }
 
-@media (max-width: 768px){
+@media (max-width: 767px){
 
    /* altura da foto*/
  .imgBaobaCard2 {
@@ -71,12 +71,29 @@ a:link{
 
 }
 
-@media (max-width: 425px){
+@media (min-width: 388px) and (max-width:767px){
  
   /* altura da foto*/
  .imgBaobaCard2 {
 
   min-height: 540px;
+
+  
+}
+.card {
+  max-width: 370px;
+  margin-bottom: 60px;
+}
+  
+  
+} 
+
+@media (max-width: 425px){
+ 
+  /* altura da foto*/
+ .imgBaobaCard2 {
+
+  min-height: 750px;
 
   
 }
@@ -88,18 +105,18 @@ a:link{
   
 } 
 
-@media (max-width: 375px){
+@media (max-width: 393px){
 
   /* altura da foto*/
   .imgBaobaCard2 {
 
-    min-height: 540px;
+    min-height: 650px;
   
     
   }
 
   .card {
-    max-width: 330px;
+    max-width: 300px;
   }
 
   .baoba {
@@ -133,4 +150,20 @@ a:link{
   
 }
   
+}
+@media (max-height: 680px){
+  .imgBaobaCard2 {
+
+    min-height: 660px;
+  
+  
+  }
+}
+@media (max-height: 600px){
+  .imgBaobaCard2 {
+
+    min-height: 600px;
+  
+  
+  }
 }

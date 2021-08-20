@@ -78,14 +78,22 @@
 .principal {
   background-image: url("../img/afropop.jpg");
 
-  height: 500vh;
+  min-height: 800vh;
+}
+
+@media (max-width: 2560px) {
+  .image-flip2 {
+    margin-bottom: 650px;
+    min-width: 210px;
+    max-height: 600px;
+  }
 }
 
 @media (max-width: 768px) {
   .image-flip2 {
     margin-bottom: 650px;
-    min-width: 210px;
-    max-height: 600px;
+    max-width: 210px;
+    max-height: 300px;
   }
 }
 
@@ -94,30 +102,44 @@
     height: 1480vh;
   }
   .image-flip2 {
-    margin-bottom: 350px;
-    width: 370px;
+    margin-bottom: 650px;
+    min-width: 470px;
     height: 300px;
   }
 }
 
 @media (max-width: 375px) {
-  .principal {
-    height: 1480vh;
+  
+  .card {
+    max-width: 310px;
+    
   }
   .image-flip2 {
-    margin-bottom: 350px;
-    width: 325px;
+    margin-bottom: 650px;
+    width: 370px;
     height: 300px;
   }
 }
 
 @media (max-width: 320px) {
   .principal {
-    height: 1480vh;
-  }
+    min-height: 900vh;
+    
+}
   .image-flip2 {
-    margin-bottom: 350px;
+    margin-bottom: 650px;
     width: 280px;
+    height: 300px;
+  }
+  .card {
+    max-width: 270px;
+  }
+}
+
+@media (max-height: 760px) {
+  .image-flip2 {
+    margin-bottom: 620px;
+    min-width: 470px;
     height: 300px;
   }
 }
