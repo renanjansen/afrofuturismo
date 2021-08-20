@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/afrofuturismo/static/css/main.5bea0819.chunk.css",
-    "main.js": "/afrofuturismo/static/js/main.8a8152be.chunk.js",
-    "main.js.map": "/afrofuturismo/static/js/main.8a8152be.chunk.js.map",
+    "main.css": "/afrofuturismo/static/css/main.d0300a54.chunk.css",
+    "main.js": "/afrofuturismo/static/js/main.c0145bba.chunk.js",
+    "main.js.map": "/afrofuturismo/static/js/main.c0145bba.chunk.js.map",
     "runtime-main.js": "/afrofuturismo/static/js/runtime-main.f9eb071a.js",
     "runtime-main.js.map": "/afrofuturismo/static/js/runtime-main.f9eb071a.js.map",
     "static/js/2.a46f1b93.chunk.js": "/afrofuturismo/static/js/2.a46f1b93.chunk.js",
     "static/js/2.a46f1b93.chunk.js.map": "/afrofuturismo/static/js/2.a46f1b93.chunk.js.map",
     "index.html": "/afrofuturismo/index.html",
-    "static/css/main.5bea0819.chunk.css.map": "/afrofuturismo/static/css/main.5bea0819.chunk.css.map",
+    "static/css/main.d0300a54.chunk.css.map": "/afrofuturismo/static/css/main.d0300a54.chunk.css.map",
     "static/js/2.a46f1b93.chunk.js.LICENSE.txt": "/afrofuturismo/static/js/2.a46f1b93.chunk.js.LICENSE.txt",
     "static/media/AE1.ba2c79e4.jpg": "/afrofuturismo/static/media/AE1.ba2c79e4.jpg",
     "static/media/AE10.e9ae67b0.jpg": "/afrofuturismo/static/media/AE10.e9ae67b0.jpg",
@@ -40,9 +40,10 @@
     "static/media/afro_ciencia.ec130cc5.jpg": "/afrofuturismo/static/media/afro_ciencia.ec130cc5.jpg",
     "static/media/afro_estetica.683159d1.jpg": "/afrofuturismo/static/media/afro_estetica.683159d1.jpg",
     "static/media/afroarte.b5b9d585.jpg": "/afrofuturismo/static/media/afroarte.b5b9d585.jpg",
-    "static/media/MainAfroNos.css": "/afrofuturismo/static/media/baoba.4db06057.jpg",
+    "static/media/MainAfroNos.css": "/afrofuturismo/static/media/afrolit.e5405c81.jpg",
     "static/media/MainAfroPop.css": "/afrofuturismo/static/media/afropop.20bf3a30.jpg",
     "static/media/alice_ball.a09a3e2e.jpg": "/afrofuturismo/static/media/alice_ball.a09a3e2e.jpg",
+    "static/media/MainBaoba.css": "/afrofuturismo/static/media/baoba.4db06057.jpg",
     "static/media/ebd.07cd99b0.jpg": "/afrofuturismo/static/media/ebd.07cd99b0.jpg",
     "static/media/educafro.ccf7a7bb.jpg": "/afrofuturismo/static/media/educafro.ccf7a7bb.jpg",
     "static/media/Header.css": "/afrofuturismo/static/media/estampa.0aaf289b.jpg",
@@ -66,7 +67,7 @@
   "entrypoints": [
     "static/js/runtime-main.f9eb071a.js",
     "static/js/2.a46f1b93.chunk.js",
-    "static/css/main.5bea0819.chunk.css",
-    "static/js/main.8a8152be.chunk.js"
+    "static/css/main.d0300a54.chunk.css",
+    "static/js/main.c0145bba.chunk.js"
   ]
 }
